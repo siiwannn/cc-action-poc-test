@@ -1,0 +1,1 @@
+This commit simulates output authored by the configured agent identity.
